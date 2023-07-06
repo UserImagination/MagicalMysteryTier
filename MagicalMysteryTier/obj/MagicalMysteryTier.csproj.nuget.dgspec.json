@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joseph\\source\\repos\\MagicalMysteryTier\\MagicalMysteryTier\\MagicalMysteryTier.csproj": {}
+    "C:\\Projects\\MagicalMysteryTier\\MagicalMysteryTier\\MagicalMysteryTier.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joseph\\source\\repos\\MagicalMysteryTier\\MagicalMysteryTier\\MagicalMysteryTier.csproj": {
+    "C:\\Projects\\MagicalMysteryTier\\MagicalMysteryTier\\MagicalMysteryTier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joseph\\source\\repos\\MagicalMysteryTier\\MagicalMysteryTier\\MagicalMysteryTier.csproj",
+        "projectUniqueName": "C:\\Projects\\MagicalMysteryTier\\MagicalMysteryTier\\MagicalMysteryTier.csproj",
         "projectName": "MagicalMysteryTier",
-        "projectPath": "C:\\Users\\Joseph\\source\\repos\\MagicalMysteryTier\\MagicalMysteryTier\\MagicalMysteryTier.csproj",
-        "packagesPath": "C:\\Users\\Joseph\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joseph\\source\\repos\\MagicalMysteryTier\\MagicalMysteryTier\\obj\\",
+        "projectPath": "C:\\Projects\\MagicalMysteryTier\\MagicalMysteryTier\\MagicalMysteryTier.csproj",
+        "packagesPath": "C:\\Users\\MatthewCraig\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\MagicalMysteryTier\\MagicalMysteryTier\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Joseph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MatthewCraig\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

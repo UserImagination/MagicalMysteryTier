@@ -24,9 +24,11 @@ public class TodoItemsController : ControllerBase
     [HttpGet]
     public async Task<ActionResult<IEnumerable<TodoItemDTO>>> GetTodoItems()
     {
-        return await _context.TodoItems
+        var result = await _context.TodoItems
             .Select(x => ItemToDTO(x))
             .ToListAsync();
+        
+        return result;
     }
 
     // GET: api/TodoItems/5
